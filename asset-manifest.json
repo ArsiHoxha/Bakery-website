@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Bakery-website/static/css/main.a52b204f.css",
-    "main.js": "/Bakery-website/static/js/main.66aea6d0.js",
+    "main.js": "/Bakery-website/static/js/main.e0640c4d.js",
     "static/js/787.40ec7132.chunk.js": "/Bakery-website/static/js/787.40ec7132.chunk.js",
     "static/media/king-arthur-baking@2x.png": "/Bakery-website/static/media/king-arthur-baking@2x.a1ada076d62f9680f577.png",
     "index.html": "/Bakery-website/index.html",
     "main.a52b204f.css.map": "/Bakery-website/static/css/main.a52b204f.css.map",
-    "main.66aea6d0.js.map": "/Bakery-website/static/js/main.66aea6d0.js.map",
+    "main.e0640c4d.js.map": "/Bakery-website/static/js/main.e0640c4d.js.map",
     "787.40ec7132.chunk.js.map": "/Bakery-website/static/js/787.40ec7132.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a52b204f.css",
-    "static/js/main.66aea6d0.js"
+    "static/js/main.e0640c4d.js"
   ]
 }
